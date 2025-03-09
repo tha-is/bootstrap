@@ -12,6 +12,6 @@
           });
           $("#3-link").click(function(event) {
               event.preventDefault();
-        $("#1").remove();
+        $("#3").remove();
           })
           });
